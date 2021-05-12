@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-//Stworzenie dashboard
+//Stworzenie dashboarda
 export default function Dashboard() {
     return (
         <div>
